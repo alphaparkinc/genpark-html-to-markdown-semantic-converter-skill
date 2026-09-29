@@ -1,0 +1,20 @@
+{
+  "name": "genpark-html-to-markdown-semantic-converter-skill",
+  "version": "1.0.0",
+  "description": "Pure Python semantic HTML-to-markdown converter preserving headers, links, lists, and formatting without dependencies",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "html-to-markdown",
+    "markdown-converter",
+    "web-scraper",
+    "content-distillation",
+    "agentic-browsing",
+    "python-standard-library",
+    "agent-skills",
+    "nlp-preprocessing",
+    "web-content",
+    "developer-tools"
+  ]
+}
